@@ -1,4 +1,4 @@
-                                                                        🌟 Welcome to Aryan's Code Realm! 🌟
+                                                                  🌟 Welcome to Aryan's Code Realm! 🌟
 Hey there! 👋 I'm Aryan Singh, a passionate student, developer, problem-solver, and lifelong learner. Here, you’ll find projects fueled by creativity, innovation, and a sprinkle of caffeinated late-night coding. ☕
 
 🚀 About Me
