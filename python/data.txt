@@ -1,0 +1,6 @@
+Name,Age,score
+alice,25.0,85.0
+bob,,78.0
+charlie,23.0,
+david,29.0,92.0
+eve,,78.0

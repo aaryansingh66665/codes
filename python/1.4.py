@@ -1,0 +1,5 @@
+a = input("enter the string\n")
+b = input("enter the word you want to find\n")
+print(f"the string is '{a}' and the word you want to find is '{b}' \n")
+c = a.count(b)
+print(c)

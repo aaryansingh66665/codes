@@ -1,0 +1,19 @@
+1.1 odd even calculator
+1.2 check whether positive or negative integer
+1.3 trouble check
+1.4 presence of word
+1.5 table of 5 using while loop
+1.6 print elements of tuple using while loop
+1.7 finding position in tuple using while loop
+1.8 print elements in decrement order
+1.9 Given a positive integer x, the task is to print the numbers from 1 to x \
+	Input:
+        x = 10
+        Output:
+        1 4 9
+
+2 The number n can be negative or positive. If n is negative, print numbers from n to 0 by adding 1 to n in the neg function. If positive, print numbers from n-1 to 0 by subtracting 1 from n in the pos function.
+         Input:
+         n = 4
+         Output:
+         3 2 1 0
