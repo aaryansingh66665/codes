@@ -2,7 +2,8 @@
 Here's an example of an innovative and engaging README template for a GitHub profile:
 
 🌟 Welcome to Aryan's Code Realm! 🌟
-Hey there! 👋 I'm Aryan Singh, a passionate student and a developer, problem-solver, and lifelong learner. Here, you’ll find projects fueled by creativity, innovation, and a sprinkle of caffeinated late-night coding. ☕
+Hey there! 👋 
+I'm Aryan Singh, a passionate student and a developer, problem-solver, and lifelong learner. Here, you’ll find projects fueled by creativity, innovation, and a sprinkle of caffeinated late-night coding. ☕
 
 🚀 About Me
 🧑‍💻 Developer with a knack for building scalable, user-friendly applications.
